@@ -58,7 +58,7 @@ console.log(`Get Set Code !!!`);
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<!-- # GitHub Stats
-![Jaspreet SIngh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjaspreet)
- -->
+# GitHub Stats
+![Jaspreet SIngh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjaspreetb)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&fontSize=90)
