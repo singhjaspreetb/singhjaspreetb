@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <Bio 
   name= { "Jaspreet Singh" }
   course = { "BE CSE" }
-  year = {2}
+  year = {3}
   college= { "Chandigarh University, Punjab" } 
 />
 ```
