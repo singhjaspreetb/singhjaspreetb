@@ -22,9 +22,6 @@ You can click the Preview link to take a look at your changes.
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
  
-<a href="https://www.linkedin.com/in/jaspreet-singh-4b79721b4/">
-  <img align="left" alt="Jaspreet Singh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
 <a href="https://singhjaspreetb.github.io/singhjaspreetb/"> 
  <img align="left" alt="Jaspreet Singh's Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-internet-internet-signal-icon-with-png-and-vector-format-27.png" />
 </a>Experience is the name everyone gives to their mistakes. ❤️ <br><br>
